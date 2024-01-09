@@ -70,7 +70,7 @@ a {
     display: flex;
     flex-direction: row;
     align-items: center;
-    height: 700px;
+    height: 86%;
 }
 
 .Hero-Image {
@@ -163,7 +163,35 @@ a {
     background-color: #04AA6D;
   }
 
+  .headingDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .subjectButtons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .subjectButtonsLower {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
   .section-2 {
-    height:600px;
-    
+    height:46%;
+  }
+
+
+  .box1 {
+    display: flex;
+    width: 10%;
+    height:30%;
+    color: #000;
   }
