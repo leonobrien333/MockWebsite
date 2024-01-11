@@ -194,4 +194,25 @@ a {
     width: 10%;
     height:30%;
     color: #000;
+    flex-direction: column;
+  }
+
+  .box2 {
+    display: flex;
+    width: 10%;
+    height:30%;
+    color: #000;
+    flex-direction: column;
+  }
+
+  .box3 {
+    display: flex;
+    width: 10%;
+    height:30%;
+    color: #000;
+    flex-direction: column;
+  }
+
+  .Section-4{
+    height:100%;
   }
